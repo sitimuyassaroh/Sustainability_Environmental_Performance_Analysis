@@ -64,7 +64,7 @@ Using environmental sensor/device data, I classified each reading as **healthy**
 
 ## 📈 Dashboard Preview
 
-![Tableau Dashboard](images/dashboard.jpg)
+![Tableau Dashboard](Dashboard%20in%20Tableau.jpg)
 
 **Dashboard components**
 - **Down Time per Factory**: unhealthy count by branch.
@@ -86,7 +86,12 @@ Using environmental sensor/device data, I classified each reading as **healthy**
 > Rename the folders and files above to match your repository.
 
 ## 🔗 Certificate
-**Certificate here:** [Amazon Performance Business Analytics Dashboard](add link)
+   <details>
+   <summary>Certificate here:</summary>
+      
+   ![Certificate of Deloitte Data Analytics](./Certificate/Certificate%20of%20Sustainability%20and%20Environmental%20Analyst%20at%20Deloitte%20Australia.pdf)
+      
+   </details>
 
 ## 🧠 What I Learned
 
